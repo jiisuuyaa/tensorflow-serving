@@ -1,0 +1,8 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#a0c4ff"  # 파스텔 블루
+backgroundColor = "#fdfdff"  # 거의 흰색에 가까운 연한 블루톤
+secondaryBackgroundColor = "#f3d2c1"  # 연한 핑크톤
+textColor = "#000000"  # 검정색 글씨
+font = "serif"
